@@ -1,0 +1,38 @@
+{
+  "User": [
+    {
+      "id": "1",
+      "name": "aswed",
+      "number": "1232234",
+      "email": "zddsd"
+    },
+    {
+      "id": "4f60",
+      "name": "Ranju",
+      "number": "451254",
+      "email": "gdhf@haml.com"
+    },
+    {
+      "id": "c54f",
+      "name": "Ranju",
+      "number": "451254",
+      "email": "gdhf@haml.com"
+    }
+  ],
+  "Task": [
+    {
+      "id": "8723",
+      "name": "Nitin",
+      "number": "12345687452",
+      "email": "ndbjsf@bdjsd.com"
+    },
+    {
+      "id": "1701",
+      "AssignedTo": "",
+      "Status": "",
+      "date": "",
+      "priority": "",
+      "description": ""
+    }
+  ]
+}
